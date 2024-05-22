@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PROJE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|f:\\proje\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|F:\\PROJE\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|F:\\PROJE\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|F:\\PROJE\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|F:\\PROJE\\donan\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:donan\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|F:\\PROJE\\donan\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:donan\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|F:\\PROJE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|F:\\PROJE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C1889F-2440-495E-ACFB-44D4A97C7873}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kasa.cs",
+              "DocumentMoniker": "F:\\PROJE\\kasa.cs",
+              "RelativeDocumentMoniker": "kasa.cs",
+              "ToolTip": "F:\\PROJE\\kasa.cs",
+              "RelativeToolTip": "kasa.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:46:52.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "F:\\PROJE\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "F:\\PROJE\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:46:29.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\PROJE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\PROJE\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAkwFcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:49:35.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "donan\u0131m.cs",
+              "DocumentMoniker": "F:\\PROJE\\donan\u0131m.cs",
+              "RelativeDocumentMoniker": "donan\u0131m.cs",
+              "ToolTip": "F:\\PROJE\\donan\u0131m.cs",
+              "RelativeToolTip": "donan\u0131m.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:49:01.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "donan\u0131m.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\PROJE\\donan\u0131m.cs",
+              "RelativeDocumentMoniker": "donan\u0131m.cs",
+              "ToolTip": "F:\\PROJE\\donan\u0131m.cs [Tasar\u0131m]",
+              "RelativeToolTip": "donan\u0131m.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:32:07.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\PROJE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\PROJE\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:32:06.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\PROJE\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "F:\\PROJE\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:32:02.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kasa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\PROJE\\kasa.cs",
+              "RelativeDocumentMoniker": "kasa.cs",
+              "ToolTip": "F:\\PROJE\\kasa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kasa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:31:59.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
